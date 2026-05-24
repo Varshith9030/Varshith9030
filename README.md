@@ -59,14 +59,14 @@ I run end-to-end adversary simulations against real client environments at **Fir
 ![Wireshark](https://img.shields.io/badge/-Wireshark-0a0e0a?style=flat-square&logo=wireshark&logoColor=65d962)
 ![Docker](https://img.shields.io/badge/-Docker-0a0e0a?style=flat-square&logo=docker&logoColor=65d962)
 
-### `$ ./stats.sh`
+### `$ ./current.sh`
 
-<div align="center">
-
-![Varshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varshith9030&show_icons=true&hide_border=true&bg_color=0a0e0a&title_color=65d962&text_color=c8d0c4&icon_color=65d962&ring_color=65d962)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith9030&layout=compact&hide_border=true&bg_color=0a0e0a&title_color=65d962&text_color=c8d0c4)
-
-</div>
+```
+> learning   : Active Directory tradecraft, Kerberos attack chains
+> shipping   : recon tooling, internal red team automation
+> reading    : The Hacker Playbook 3, Red Team Field Manual, HackTricks
+> next       : OSCP (planned), AD-focused engagement writeups
+```
 
 ### `$ ./contact.sh`
 
