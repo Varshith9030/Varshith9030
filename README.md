@@ -1,19 +1,6 @@
-<div align="center">
+# `varshith@offsec:~$ whoami`
 
-```
-varshith@offsec:~$ whoami
-
- ██╗   ██╗ █████╗ ██████╗ ███████╗██╗  ██╗██╗████████╗██╗  ██╗
- ██║   ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██║╚══██╔══╝██║  ██║
- ██║   ██║███████║██████╔╝███████╗███████║██║   ██║   ███████║
- ╚██╗ ██╔╝██╔══██║██╔══██╗╚════██║██╔══██║██║   ██║   ██╔══██║
-  ╚████╔╝ ██║  ██║██║  ██║███████║██║  ██║██║   ██║   ██║  ██║
-   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
-
-       [ offensive security · penetration tester ]
-```
-
-</div>
+> **Offensive Security Practitioner** · Red Team Security Analyst Intern at **FireCompass** · author of [subdomain-hunter](https://github.com/Varshith9030/subdomain-hunter) and [Mega-Finder](https://github.com/Varshith9030/Mega-Finder).
 
 ```yaml
 identity:
